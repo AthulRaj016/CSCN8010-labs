@@ -1,8 +1,6 @@
-*keras
-*jpg
-*png
+vgg16_best_model.keras
+custom_cnn_best_model.keras
+*.keras
+*.jpg
 train/
 test/
-train_resized/
-test_resized/
-models/
